@@ -9,12 +9,11 @@ const perguntas = [
     enunciado: "Você vai fazer um piquenique na praia com sua família, vocês decidem levar canudos descartáveis ou biodegradáveis?",
         alternativas: [
             {
-                texto: "Descartáveis!"
-                afirmacao: "porque não é necessário canudos de papel."
-            },
+                texto: "Descartáveis!",
+                afirmacao: "porque não é necessário canudos de papel.",
             {
                 texto: "Biodegradáveis!",
-                afirmacao: "Pois me importo com o destino que meu lixo terá."
+                afirmacao: "Pois me importo com o destino que meu lixo terá.",
             }
         ]
     },
