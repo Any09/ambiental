@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Descartáveis!",
-                afirmacao: "porque não é necessário canudos de papel.",
+                afirmacao: "porque não é necessário canudos de papel."},
             {
                 texto: "Biodegradáveis!",
                 afirmacao: "Pois me importo com o destino que meu lixo terá.",
