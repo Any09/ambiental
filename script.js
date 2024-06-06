@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+    enunciado: "Você vai fazer um piquenique na praia com sua família, vocês decidem levar canudos descartáveis ou biodegradáveis?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Descartáveis!"
+                afirmacao: "porque não é necessário canudos de papel."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Biodegradáveis!",
+                afirmacao: "Pois me importo com o destino que meu lixo terá."
             }
         ]
     },
