@@ -25,7 +25,7 @@ const perguntas = [
                 afirmacao: "Pego para fazer ovos mexidos"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Pego para fazer ovos mexidos",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
