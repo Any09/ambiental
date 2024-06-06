@@ -22,16 +22,16 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tomo cuidado para não pisar neles!",
-                afirmacao: "Pego para fazer ovos mexidos"
+                afirmacao: "Pois é muito importante cuidar da futura vida marinha"
             },
             {
-                texto: "Pego para fazer ovos mexidos",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Deixo pra lá",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
