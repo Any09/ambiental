@@ -12,34 +12,34 @@ const perguntas = [
                 texto: "Procuro outro trabalho.",
                 afirmacao: ""},
             {
-                texto: "Procuro um aquário para tentar outra chance de emprego.",
+                texto: "Espero outra oportunidade.",
                 afirmacao: "",
             }
         ]
     },
     {
-        enunciado: "Sua amiga(o) te pergunta se você quer ajudá-lo(a) em uma ONG para limpeza de mares,oceanos e rios ali perto.",
+        enunciado: "Sua amiga(o) te pergunta se você quer ajudá-lo(a) em uma ONG para limpeza e resgate de animais em mares,oceanos e rios ali perto.",
         alternativas: [
             {
                 texto: "Aceito, pois será uma nova experiência.",
                 afirmacao: "Pois é muito importante cuidar da futura vida marinha"
             },
             {
-                texto: "Recuso, pois não é o que tenho em mente agora.",
+                texto: "Aceito, mas não era bem o que eu queria no momento.",
                 afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "No novo emprego, você pode escolher em qual área vai atuar: "
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Eu irei ajudar a resgatar animais",
+                afirmacao: ""
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Eu decidi ajudar a limpar as águas.",
+                afirmacao: ""
             }
         ]
     },
