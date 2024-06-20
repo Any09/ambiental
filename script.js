@@ -31,7 +31,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "No novo emprego, você pode escolher em qual área vai atuar: "
+        enunciado: "No novo emprego, você pode escolher em qual área vai atuar: ",
         alternativas: [
             {
                 texto: "Eu irei ajudar a resgatar animais",
