@@ -6,26 +6,26 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-    enunciado: "Você vai fazer um piquenique na praia com sua família, vocês decidem levar canudos descartáveis ou biodegradáveis?",
+    enunciado: "Você acabou de se formar na faculdade de biologia marinha, e se mudou para a praia para ficar mais perto de seu ambiente de trabalho. Sempre foi seu sonho fazer essa faculdade, mas infelizmente não há vagas em sua cidade, então o que você faz agora?",
         alternativas: [
             {
-                texto: "Descartáveis!",
-                afirmacao: "porque não é necessário canudos de papel."},
+                texto: "Procuro outro trabalho.",
+                afirmacao: ""},
             {
-                texto: "Biodegradáveis!",
-                afirmacao: "Pois me importo com o destino que meu lixo terá.",
+                texto: "Procuro um aquário para tentar outra chance de emprego.",
+                afirmacao: "",
             }
         ]
     },
     {
-        enunciado: "Depois do piquenique você vai tomar banho de mar, e você encontra ovos de tartaruga, o que você faz? ",
+        enunciado: "Sua amiga(o) te pergunta se você quer ajudá-lo(a) em uma ONG para limpeza de mares,oceanos e rios ali perto.",
         alternativas: [
             {
-                texto: "Tomo cuidado para não pisar neles!",
+                texto: "Aceito, pois será uma nova experiência.",
                 afirmacao: "Pois é muito importante cuidar da futura vida marinha"
             },
             {
-                texto: "Deixo pra lá",
+                texto: "Recuso, pois não é o que tenho em mente agora.",
                 afirmacao: ""
             }
         ]
