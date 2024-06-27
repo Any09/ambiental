@@ -26,7 +26,7 @@ const perguntas = [
             },
             {
                 texto: "Aceito, mas não era bem o que eu queria no momento.",
-                afirmacao: ""
+                afirmacao: "Posso ajudar na ONG, assim também posso ganhar experiência no meu futuro local de trabalho "
             }
         ]
     },
@@ -61,11 +61,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você aceita e decide falar de como é importante cuidar da vida marinha, jogando o lixo no lugar certo por exemplo, e outras atitudes sustentáveis para a vida nos mares, rios e oceanos!",
-                afirmacao: ""
+                afirmacao: "Fim!"
             },
             {
                 texto: "Você decide falar sobre como foi sua faculdade, quais foram os desafios enfrentados por você ao longo do curso, e como é o mercado de trabalho de sua profissão. O que também pode ajudar as crianças a pensarem na sua futura profissão.  ",
-                afirmacao: ""
+                afirmacao: "Fim!"
             }
         ]
     },
