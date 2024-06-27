@@ -10,10 +10,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Procuro outro trabalho.",
-                afirmacao: ""},
+                afirmacao: "você queria muito trabalhar como bióloga(o), mas teria que deixar esse sonho de lado por um momento"},
             {
                 texto: "Espero outra oportunidade.",
-                afirmacao: "",
+                afirmacao: "Você ",
             }
         ]
     },
