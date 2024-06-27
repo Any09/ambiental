@@ -10,10 +10,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Procuro outro trabalho.",
-                afirmacao: "você queria muito trabalhar como bióloga(o), mas teria que deixar esse sonho de lado por um momento"},
+                afirmacao: "você queria muito trabalhar como bióloga(o), mas teria que deixar esse sonho de lado por um momento."},
             {
                 texto: "Espero outra oportunidade.",
-                afirmacao: "Você poderia esperar para realizar seu sonho,",
+                afirmacao: "Você poderia esperar para realizar seu sonho.",
             }
         ]
     },
@@ -22,7 +22,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aceito, pois será uma nova experiência.",
-                afirmacao: "Pois é muito importante cuidar da futura vida marinha, já que algum dia vou trabalhar com ela.",
+                afirmacao: "É muito importante cuidar da futura vida marinha, já que algum dia vou trabalhar com ela.",
             },
             {
                 texto: "Aceito, mas não era bem o que eu queria no momento.",
@@ -35,11 +35,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu irei ajudar a resgatar animais",
-                afirmacao: ""
+                afirmacao: "Resgatar animais pode aproximar você de seu futuro ambiente de trabalho. "
             },
             {
                 texto: "Eu decidi ajudar a limpar as águas.",
-                afirmacao: ""
+                afirmacao: "Limpar mares, oceanos e rios conserteza contribui para o progresso da vida aquática, e você fica contente em saber disso."
             }
         ]
     },
@@ -52,7 +52,7 @@ const perguntas = [
             },
             {
                 texto: "Estou cansado do trabalho, então deixo ela lá, esperando que outra pessoa a ajude.",
-                afirmacao: ""
+                afirmacao: "Tudo bem estar cansado de um dia de trabalho, mas você poderia pedir para alguém ajudar a pequena tartaruga."
             }
         ]
     },
