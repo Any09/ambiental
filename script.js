@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "você queria muito trabalhar como bióloga(o), mas teria que deixar esse sonho de lado por um momento"},
             {
                 texto: "Espero outra oportunidade.",
-                afirmacao: "Você ",
+                afirmacao: "Você poderia esperar para realizar seu sonho,",
             }
         ]
     },
@@ -22,7 +22,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aceito, pois será uma nova experiência.",
-                afirmacao: "Pois é muito importante cuidar da futura vida marinha, já que algum dia vou trabalhar com ela"
+                afirmacao: "Pois é muito importante cuidar da futura vida marinha, já que algum dia vou trabalhar com ela.",
             },
             {
                 texto: "Aceito, mas não era bem o que eu queria no momento.",
@@ -57,14 +57,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Em um futuro não muito distante, você é chamado(a) para fazer uma palestra para crianças de uma escola, na cidade que você está morando devido a sua profissão.",
         alternativas: [
             {
-                texto: "",
+                texto: "Você aceita e decide falar de como é importante cuidar da vida marinha, jogando o lixo no lugar certo por exemplo, e outras atitudes sustentáveis para a vida nos mares, rios e oceanos!",
                 afirmacao: ""
             },
             {
-                texto: "",
+                texto: "Você decide falar sobre como foi sua faculdade, quais foram os desafios enfrentados por você ao longo do curso, e como é o mercado de trabalho de sua profissão. O que também pode ajudar as crianças a pensarem na sua futura profissão.  ",
                 afirmacao: ""
             }
         ]
